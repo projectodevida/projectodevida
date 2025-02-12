@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Projecto de Vida"
 theme = "hugo-book"
 
+ BookSection = "docs, blog"
+
+
 [menu]
   [[menu.main]]
     identifier = "home"
@@ -21,3 +24,9 @@ theme = "hugo-book"
     name = "Contact"
     url = "/contact/"
     weight = 3
+
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 20

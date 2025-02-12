@@ -13,8 +13,8 @@ The purpose of this project is to create a space to reflect on my experiences, s
 
 ### Latest Posts
 
-1. [My First Post](/blog/my-first-post)
-2. [Another Blog Post](/blog/another-post)
+1. [My First Post](/posts/my-first-post)
+2. [Another Blog Post](/posts/another-post)
 
 ---
 
