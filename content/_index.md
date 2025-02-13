@@ -11,10 +11,9 @@ This is my personal project where I document and explore my life, goals, and exp
 
 The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.
 
-### Latest Posts
+### More Info
 
-1. [My First Post](/posts/my-first-post)
-2. [Another Blog Post](/posts/another-post)
+This is more info I find interesting.
 
 ---
 

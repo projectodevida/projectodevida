@@ -6,7 +6,7 @@
     <description>Recent content on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
@@ -21,6 +21,13 @@
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/docs/contact/</guid>
       <description>&lt;h1 id=&#34;my-contact&#34;&gt;&#xA;  My Contact&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-contact&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Email phone number and stuff.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My Second Blog Post</title>
+      <link>http://localhost:1313/posts/my-second-post/</link>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-second-post/</guid>
+      <description>&lt;p&gt;This is my third blog post on Projecto de Vida! More updates coming soon. 🚀💖&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Blog Post</title>
