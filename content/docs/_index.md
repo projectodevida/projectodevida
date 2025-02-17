@@ -1,7 +1,6 @@
 ---
 title: "Index"
-linkTitle: "Index"
+url: "/"
 weight: 1
+draft: false
 ---
-
-[Go to Homepage](/)

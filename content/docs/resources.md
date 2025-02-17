@@ -2,8 +2,10 @@
 title: "Resources"
 type: "docs"
 url: "/resources/"
-weight: 6
+weight: 4
 draft: false 
 ---
+
+# Welcome to Resources
 
 Welcome to the resources section.
