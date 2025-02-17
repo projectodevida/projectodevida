@@ -8,28 +8,45 @@ theme = "hugo-book"
 
 [menu]
   [[menu.main]]
-    identifier = "home"
-    name = "Home"
+    identifier = "index"
+    name = "Index"
     url = "/"
     weight = 1
 
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
     weight = 2
+
+
+    [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 3
+
+
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 4
+
+  [[menu.main]]
+    name = "Events"
+    url = "/events/"
+    weight = 5
+
+  [[menu.main]]
+    name = "Resources"
+    url = "/resources/"
+    weight = 6
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 20
+    weight = 7
 
 
 

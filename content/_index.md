@@ -1,6 +1,8 @@
 ---
 title: "Projecto de Vida"
 date: 2025-02-12T00:00:00Z
+url: "/index/"
+
 ---
 
 # Welcome to Projecto de Vida

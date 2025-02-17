@@ -1,10 +1,8 @@
 ---
 title: "Contact"
 date: 2025-02-12T00:00:00Z
-weight: 3
-draft: false
-menu: main
-type: "docs" 
+weight: 7
+draft: false 
 ---
 
 # My Contact
