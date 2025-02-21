@@ -5,15 +5,22 @@
     <link>http://localhost:1313/categories/category-3/</link>
     <description>Recent content in Category 3 on Projecto de Vida</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/category-3/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post</title>
+      <link>http://localhost:1313/pt/posts/post2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/posts/post2/</guid>
+      <description>&lt;h2 id=&#34;este-é-um-subtítulo&#34;&gt;&#xA;  Este é um subtítulo&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#este-%c3%a9-um-subt%c3%adtulo&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Este é o meu segundo post no blog do Projecto de Vida! Mais atualizações em breve.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My Second Blog Post</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;p&gt;This is my second blog post on Projecto de Vida! More updates coming soon.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;this-is-a-subtitle&#34;&gt;&#xA;  This is a subtitle&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#this-is-a-subtitle&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This is my second blog post on Projecto de Vida! More updates coming soon.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

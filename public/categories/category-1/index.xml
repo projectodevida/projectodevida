@@ -5,9 +5,16 @@
     <link>http://localhost:1313/categories/category-1/</link>
     <description>Recent content in Category 1 on Projecto de Vida</description>
     <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>http://localhost:1313/pt/posts/post1/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/posts/post1/</guid>
+      <description>&lt;p&gt;Este é o primeiro post do &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Blog Post</title>
       <link>http://localhost:1313/posts/my-first-post/</link>

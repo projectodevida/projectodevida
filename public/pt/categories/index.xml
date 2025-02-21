@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Projecto de Vida</title>
+    <link>http://localhost:1313/pt/categories/</link>
+    <description>Recent content in Categories on Projecto de Vida</description>
+    <generator>Hugo</generator>
+    <language>pt-PT</language>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pt/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category 1</title>
+      <link>http://localhost:1313/pt/categories/category-1/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/categories/category-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category 2</title>
+      <link>http://localhost:1313/pt/categories/category-2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/categories/category-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category 3</title>
+      <link>http://localhost:1313/pt/categories/category-3/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/categories/category-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category 4</title>
+      <link>http://localhost:1313/pt/categories/category-4/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/categories/category-4/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

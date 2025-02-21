@@ -8,11 +8,11 @@ BookSection = 'docs'
 
 [menu]
   [[menu.main]]
-    identifier = "index"
-    name = "Index"
-    url = "/home"
+    identifier = "home"
+    name = "Home"
+    url = "/"
     weight = 1
-
+    
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
@@ -39,6 +39,34 @@ BookSection = 'docs'
     name = "Contact"
     url = "/contact/"
     weight = 5
+    
+    
+    
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
+
+[languages]
+  [languages.en]
+    contentDir = 'content'
+    disabled = false
+    languageCode = 'en-US'
+    languageDirection = 'ltr'
+    languageName = 'English'
+    title = 'Projecto de Vida'
+    weight = 1
+    [languages.en.params]
+      subtitle = 'Reference, Tutorials, and Explanations'
+
+  [languages.pt]
+    contentDir = 'content/pt'
+    disabled = false
+    languageCode = 'pt-PT'
+    languageDirection = 'ltr'
+    languageName = 'Português'
+    title = 'Projecto de Vida'
+    weight = 2
+    [languages.pt.params]
+      subtitle = 'Referências, Tutoriais e Explicações'
 
 
 
