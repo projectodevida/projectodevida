@@ -2,7 +2,6 @@
 title: "Primeiro Post"
 date: "2025-02-21"
 draft: false
-lang: "pt"
 tags: ["Tag 1", "Tag 2", "Tag Vida"]
 categorias: ["Category 1", "Category 2"]
 ---

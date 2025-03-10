@@ -6,8 +6,15 @@
     <description>Recent content in Tag Vida on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 12 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/tag-vida/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Primeiro Post</title>
+      <link>http://localhost:1313/en/pt/posts/post1/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pt/posts/post1/</guid>
+      <description>&lt;p&gt;Este é o primeiro post do &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Blog Post</title>
       <link>http://localhost:1313/en/posts/my-first-post/</link>

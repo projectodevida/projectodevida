@@ -29,6 +29,90 @@
   </url><url>
     <loc>http://localhost:1313/en/pt/docs/contacto/</loc>
   </url><url>
+    <loc>http://localhost:1313/en/pt/posts/post1/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/pt/posts/post2/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/tag-1/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/tags/tag-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/tag-1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/tag-2/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/tags/tag-2/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/tag-2/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/tag-3/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/tags/tag-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/tag-3/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/tag-4/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/tags/tag-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/tag-4/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/tag-vida/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/tags/tag-vida/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/tag-vida/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/categories/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -52,45 +136,6 @@
                 rel="alternate"
                 hreflang="en-US"
                 href="http://localhost:1313/en/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-3/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/tag-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/tag-3/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-4/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/tag-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/tag-4/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/en/categories/category-1/</loc>
@@ -130,55 +175,6 @@
   </url><url>
     <loc>http://localhost:1313/en/pt/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/pt/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/pt/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-1/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/tag-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/tag-1/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-2/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/tag-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/tag-2/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-vida/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/tag-vida/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/tags/tag-vida/"
-                />
   </url><url>
     <loc>http://localhost:1313/projectos/eventos/</loc>
   </url><url>

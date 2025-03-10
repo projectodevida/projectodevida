@@ -6,40 +6,40 @@
     <description>Recent content in Tags on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Tag 3</title>
-      <link>http://localhost:1313/en/tags/tag-3/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/tag-3/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Tag 4</title>
-      <link>http://localhost:1313/en/tags/tag-4/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/tags/tag-4/</guid>
-      <description></description>
-    </item>
     <item>
       <title>Tag 1</title>
       <link>http://localhost:1313/en/tags/tag-1/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/tags/tag-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag 2</title>
       <link>http://localhost:1313/en/tags/tag-2/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/tags/tag-2/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag 3</title>
+      <link>http://localhost:1313/en/tags/tag-3/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/tag-3/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tag 4</title>
+      <link>http://localhost:1313/en/tags/tag-4/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/tags/tag-4/</guid>
       <description></description>
     </item>
     <item>
       <title>Tag Vida</title>
       <link>http://localhost:1313/en/tags/tag-vida/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/tags/tag-vida/</guid>
       <description></description>
     </item>

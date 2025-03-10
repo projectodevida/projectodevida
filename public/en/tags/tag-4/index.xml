@@ -6,8 +6,15 @@
     <description>Recent content in Tag 4 on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/en/tags/tag-4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Segundo Post</title>
+      <link>http://localhost:1313/en/pt/posts/post2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/pt/posts/post2/</guid>
+      <description>&lt;h2 id=&#34;este-é-um-subtítulo&#34;&gt;&#xA;  Este é um subtítulo&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#este-%c3%a9-um-subt%c3%adtulo&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Este é o meu segundo post no blog do Projecto de Vida! Mais atualizações em breve.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My Second Blog Post</title>
       <link>http://localhost:1313/en/posts/my-second-post/</link>

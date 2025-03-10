@@ -2,7 +2,6 @@
 title: "Segundo Post"
 date: 2025-02-21
 draft: false
-lang: "pt"
 tags: ["Tag 3", "Tag 4"]
 categorias: ["Category 3", "Category 4"]
 ---
