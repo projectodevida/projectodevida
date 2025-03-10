@@ -2,13 +2,9 @@
 title: "Segundo Post"
 date: 2025-02-21
 draft: false
-tags:
-  - Tag 3
-  - Tag 4
-  - Tag Vida
-categories:
-  - Category 3
-  - Category 4
+lang: "pt"
+tags: ["Tag 3", "Tag 4"]
+categorias: ["Category 3", "Category 4"]
 ---
 
 ## Este é um subtítulo

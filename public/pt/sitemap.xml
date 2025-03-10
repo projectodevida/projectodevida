@@ -6,7 +6,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/posts/"
+                href="http://localhost:1313/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -20,77 +20,27 @@
   </url><url>
     <loc>http://localhost:1313/pt/docs/contacto/</loc>
   </url><url>
-    <loc>http://localhost:1313/pt/categories/</loc>
+    <loc>http://localhost:1313/pt/categorias/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/categories/"
-                />
   </url><url>
-    <loc>http://localhost:1313/pt/categories/category-1/</loc>
+    <loc>http://localhost:1313/pt/categorias/category-1/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/category-1/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/categories/category-1/"
-                />
   </url><url>
-    <loc>http://localhost:1313/pt/categories/category-2/</loc>
+    <loc>http://localhost:1313/pt/categorias/category-2/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/category-2/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/categories/category-2/"
-                />
   </url><url>
-    <loc>http://localhost:1313/pt/categories/category-3/</loc>
+    <loc>http://localhost:1313/pt/categorias/category-3/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/category-3/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/categories/category-3/"
-                />
   </url><url>
-    <loc>http://localhost:1313/pt/categories/category-4/</loc>
+    <loc>http://localhost:1313/pt/categorias/category-4/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/categories/category-4/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/categories/category-4/"
-                />
   </url><url>
     <loc>http://localhost:1313/pt/posts/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/posts/"
+                href="http://localhost:1313/en/posts/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -101,7 +51,26 @@
     <loc>http://localhost:1313/pt/posts/post1/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/pt/pt/posts/post1/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt/pt/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/pt/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/pt/"
+                />
+  </url><url>
     <loc>http://localhost:1313/pt/posts/post2/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/pt/pt/posts/post2/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt/tags/tag-1/</loc>
@@ -109,7 +78,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/tag-1/"
+                href="http://localhost:1313/en/tags/tag-1/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -122,7 +91,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/tag-2/"
+                href="http://localhost:1313/en/tags/tag-2/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -135,7 +104,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/tag-3/"
+                href="http://localhost:1313/en/tags/tag-3/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -148,7 +117,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/tag-4/"
+                href="http://localhost:1313/en/tags/tag-4/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -161,7 +130,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/tag-vida/"
+                href="http://localhost:1313/en/tags/tag-vida/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -174,7 +143,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -187,7 +156,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -199,7 +168,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/docs/"
+                href="http://localhost:1313/en/docs/"
                 />
     <xhtml:link
                 rel="alternate"

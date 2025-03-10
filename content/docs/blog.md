@@ -1,7 +1,7 @@
 ---
 title: "Blog"
 type: "blog"
-url: "/posts/"
+url: "/en/posts/"
 weight: 2
 ---
 

@@ -3,8 +3,12 @@ languageCode = "en-us"
 title = "Projecto de Vida"
 theme = "hugo-book"
 
+defaultContentLanguageInSubdir = true
 BookSection = 'docs'
 
+[params]
+  customCSS = ["css/custom.scss"]
+  favicon = "favicon.ico"
 
 [menu]
   [[menu.main]]
@@ -67,6 +71,9 @@ defaultContentLanguageInSubdir = true
     weight = 2
     [languages.pt.params]
       subtitle = 'Referências, Tutoriais e Explicações'
+    [languages.pt.taxonomies]
+      category = "categorias"
+      tag = "tags"
 
 
 
