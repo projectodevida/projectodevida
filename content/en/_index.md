@@ -18,4 +18,7 @@ This is more info I find interesting.
 
 ---
 
-Thanks for visiting! Stay tuned for more updates.
+Thanks for visiting! Stay tuned for more updates. 
+This is a sentence with a footnote[^1].
+
+[^1]: This is the content of the footnote.

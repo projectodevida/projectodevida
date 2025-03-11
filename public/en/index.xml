@@ -16,20 +16,6 @@
       <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;&#xA;  Welcome to the Blog&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-the-blog&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Blog</title>
-      <link>http://localhost:1313/pt/posts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/posts/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;&#xA;  Welcome to the Blog&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-the-blog&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Recursos</title>
-      <link>http://localhost:1313/en/pt/docs/recursos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pt/docs/recursos/</guid>
-      <description>&lt;h1 id=&#34;recursos&#34;&gt;&#xA;  Recursos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#recursos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Esta é a página dos recursos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;artigos&#34;&gt;&#xA;  Artigos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#artigos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Artigo 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Artigo 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-    <item>
       <title>Resources</title>
       <link>http://localhost:1313/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,67 +30,32 @@
       <description>&lt;h1 id=&#34;my-contact&#34;&gt;&#xA;  My Contact&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-contact&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Email phone number and stuff.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Contacto</title>
-      <link>http://localhost:1313/en/pt/docs/contacto/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pt/docs/contacto/</guid>
-      <description>&lt;h1 id=&#34;entre-em-contacto&#34;&gt;&#xA;  Entre em Contacto&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#entre-em-contacto&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Se tiver dúvidas, sugestões ou quiser conversar, entre em contacto comigo!&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:seuemail@example.com&#34;&gt;email@example.com&lt;/a&gt;&lt;br&gt;&#xA;Redes Sociais: &lt;a href=&#34;#&#34;&gt;Instagram&lt;/a&gt; | &lt;a href=&#34;#&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;#&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Primeiro Post</title>
-      <link>http://localhost:1313/en/pt/posts/post1/</link>
+      <title>First Post</title>
+      <link>http://localhost:1313/en/posts/firstpost/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pt/posts/post1/</guid>
-      <description>&lt;p&gt;Este é o primeiro post do &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/posts/firstpost/</guid>
+      <description>&lt;p&gt;This is the first post of &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Segundo Post</title>
-      <link>http://localhost:1313/en/pt/posts/post2/</link>
+      <title>Second Post</title>
+      <link>http://localhost:1313/en/posts/secondpost/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/pt/posts/post2/</guid>
-      <description>&lt;h2 id=&#34;este-é-um-subtítulo&#34;&gt;&#xA;  Este é um subtítulo&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#este-%c3%a9-um-subt%c3%adtulo&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Este é o meu segundo post no blog do Projecto de Vida! Mais atualizações em breve.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/en/posts/secondpost/</guid>
+      <description>&lt;p&gt;This is the second post of &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>My Second Blog Post</title>
-      <link>http://localhost:1313/en/posts/my-second-post/</link>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/my-second-post/</guid>
-      <description>&lt;h2 id=&#34;this-is-a-subtitle&#34;&gt;&#xA;  This is a subtitle&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#this-is-a-subtitle&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This is my second blog post on Projecto de Vida! More updates coming soon.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>My First Blog Post</title>
-      <link>http://localhost:1313/en/posts/my-first-post/</link>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/posts/my-first-post/</guid>
-      <description>&lt;p&gt;This is the first blog post for my website &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>—Events</title>
+      <title>— Events</title>
       <link>http://localhost:1313/projects/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/events/</guid>
       <description>&lt;h1 id=&#34;events&#34;&gt;&#xA;  Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-events&#34;&gt;&#xA;  More Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>—Publications</title>
+      <title>— Publications</title>
       <link>http://localhost:1313/projects/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/publications/</guid>
       <description>&lt;h1 id=&#34;publications&#34;&gt;&#xA;  Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-publications&#34;&gt;&#xA;  More Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Eventos</title>
-      <link>http://localhost:1313/projectos/eventos/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projectos/eventos/</guid>
-      <description>&lt;h1 id=&#34;eventos&#34;&gt;&#xA;  Eventos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#eventos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Este é o meu projeto pessoal onde documenta e explora a minha vida, objetivos e experiências. Sinta-se à vontade para ler os meus artigos e entre em contacto se quiser conectar!&lt;/p&gt;&#xA;&lt;h2 id=&#34;mais-eventos&#34;&gt;&#xA;  Mais Eventos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mais-eventos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O propósito deste projeto é criar um espaço para refletir sobre as minhas experiências, partilhar o que aprendo e planejar o futuro. Vai encontrar artigos sobre uma variedade de tópicos, incluindo desenvolvimento pessoal, carreira e muito mais.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publicações</title>
-      <link>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</guid>
-      <description>&lt;h1 id=&#34;publicações&#34;&gt;&#xA;  Publicações&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#publica%c3%a7%c3%b5es&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Este é o meu projeto pessoal onde documentei e exploro a minha vida, metas e experiências. Fique à vontade para ler os meus posts e entre em contato caso queira conectar!&lt;/p&gt;&#xA;&lt;h2 id=&#34;mais-publicações&#34;&gt;&#xA;  Mais Publicações&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mais-publica%c3%a7%c3%b5es&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O objetivo deste projeto é criar um espaço para refletir sobre as minhas experiências, compartilhar o que aprendo e planejar o futuro. Encontrará artigos sobre uma variedade de tópicos, incluindo desenvolvimento pessoal, carreira e mais.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

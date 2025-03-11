@@ -8,14 +8,14 @@
     <language>pt-PT</language>
     <atom:link href="http://localhost:1313/projectos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Eventos</title>
+      <title>— Eventos</title>
       <link>http://localhost:1313/projectos/eventos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projectos/eventos/</guid>
       <description>&lt;h1 id=&#34;eventos&#34;&gt;&#xA;  Eventos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#eventos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Este é o meu projeto pessoal onde documenta e explora a minha vida, objetivos e experiências. Sinta-se à vontade para ler os meus artigos e entre em contacto se quiser conectar!&lt;/p&gt;&#xA;&lt;h2 id=&#34;mais-eventos&#34;&gt;&#xA;  Mais Eventos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mais-eventos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O propósito deste projeto é criar um espaço para refletir sobre as minhas experiências, partilhar o que aprendo e planejar o futuro. Vai encontrar artigos sobre uma variedade de tópicos, incluindo desenvolvimento pessoal, carreira e muito mais.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Publicações</title>
+      <title>— Publicações</title>
       <link>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</guid>

@@ -145,6 +145,10 @@
                 href="http://localhost:1313/pt/"
                 />
   </url><url>
+    <loc>http://localhost:1313/projectos/eventos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</loc>
+  </url><url>
     <loc>http://localhost:1313/pt/docs/</loc>
     <xhtml:link
                 rel="alternate"
@@ -156,9 +160,5 @@
                 hreflang="pt-PT"
                 href="http://localhost:1313/pt/docs/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/projectos/eventos/</loc>
-  </url><url>
-    <loc>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</loc>
   </url>
 </urlset>
