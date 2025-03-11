@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "—Publications"
 url: "/projects/publications/"
 draft: false
 ---

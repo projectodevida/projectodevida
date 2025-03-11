@@ -1,5 +1,5 @@
 ---
-title: "Events"
+title: "—Events"
 url: "/projects/events/"
 draft: false
 ---

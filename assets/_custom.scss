@@ -11,3 +11,51 @@ body {
     font-family: 'Archivo', sans-serif;
 }
 
+#book-search-input {
+    font-size: 16px;
+    margin-top: 30px;
+  }
+
+  .book-menu-content .book-search {
+    margin-bottom: 0 !important; 
+}
+
+.book-languages li {
+    margin-top: 0 !important; 
+    padding-top: 0 !important; 
+}
+
+/*pt*/
+#section-c289f54fc5824dfafc4093d83e137160 ~ ul > li {
+    margin: -5px !important; 
+    padding: -10px; 
+}
+
+/*en*/
+#section-e6ddaa94528386ee4fa9b153dbc3af88 ~ ul > li {
+    margin: -5px !important;
+    padding: -10px; 
+}
+
+  .book-menu-content nav {
+    font-size: 18px; 
+    line-height: 1.5;
+  }
+  
+  .book-menu-content .book-brand {
+    font-size: 18px; 
+    text-decoration: underline;
+  }
+
+  .PdV-logo {
+    position: absolute;
+    bottom: 80px;
+    right: 100px;
+    width: 80px; /* Adjust size as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+
+
+#book-languages {
+    line-height: 0.5;
+} 
