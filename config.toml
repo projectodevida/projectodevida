@@ -1,4 +1,4 @@
-baseURL = "http://projectodevida.org/"
+baseURL = "https://projectodevida.org/"
 languageCode = "en-us"
 title = "Projecto de Vida"
 theme = "hugo-book"
