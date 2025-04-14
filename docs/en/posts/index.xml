@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Projecto de Vida</title>
-    <link>https://projectodevida.org:1313/en/posts/</link>
+    <link>https://projectodevida.org/en/posts/</link>
     <description>Recent content in Posts on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://projectodevida.org:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://projectodevida.org/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://projectodevida.org:1313/en/posts/firstpost/</link>
+      <link>https://projectodevida.org/en/posts/firstpost/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org:1313/en/posts/firstpost/</guid>
+      <guid>https://projectodevida.org/en/posts/firstpost/</guid>
       <description>&lt;p&gt;This is the first post of &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>https://projectodevida.org:1313/en/posts/secondpost/</link>
+      <link>https://projectodevida.org/en/posts/secondpost/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org:1313/en/posts/secondpost/</guid>
+      <guid>https://projectodevida.org/en/posts/secondpost/</guid>
       <description>&lt;p&gt;This is the second post of &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
