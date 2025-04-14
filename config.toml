@@ -21,7 +21,13 @@ publishDir = "docs"
     name = "Home"
     url = "/"
     weight = 1
-    
+
+[[menu.main]]
+  identifier = "indice"
+  name = "Índice"
+  url = "/pt/docs/indice/"
+  weight = 1
+
   [[menu.main]]
     identifier = "blog"
     name = "Blog"
