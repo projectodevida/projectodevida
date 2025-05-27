@@ -1,8 +1,8 @@
 ---
 title: "Index"
-type: "docs"
-url: "/en/"
-layout: "home"
+layout: "redirect"
+redirect: "/en/"
+url: "/en/home/"
 weight: 1
 draft: false
 ---
