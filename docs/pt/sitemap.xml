@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/pt/docs/home/</loc>
+    <loc>http://localhost:1313/pt/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
@@ -11,7 +11,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/docs/home/"
+                href="http://localhost:1313/pt/home/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/posts/</loc>
@@ -28,9 +28,9 @@
   </url><url>
     <loc>http://localhost:1313/projectos/</loc>
   </url><url>
-    <loc>http://localhost:1313/pt/docs/recursos/</loc>
+    <loc>http://localhost:1313/pt/recursos/</loc>
   </url><url>
-    <loc>http://localhost:1313/pt/docs/contacto/</loc>
+    <loc>http://localhost:1313/pt/contacto/</loc>
   </url><url>
     <loc>http://localhost:1313/pt/categorias/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>

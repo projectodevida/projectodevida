@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:1313/en/docs/contact/</link>
+      <link>http://localhost:1313/en/contact/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/docs/contact/</guid>
+      <guid>http://localhost:1313/en/contact/</guid>
       <description>&lt;h1 id=&#34;my-contact&#34;&gt;&#xA;  My Contact&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-contact&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Email phone number and stuff.&lt;/p&gt;</description>
     </item>
   </channel>

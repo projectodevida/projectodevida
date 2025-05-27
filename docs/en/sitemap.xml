@@ -6,7 +6,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/docs/home/"
+                href="http://localhost:1313/pt/home/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -30,7 +30,7 @@
   </url><url>
     <loc>http://localhost:1313/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/docs/contact/</loc>
+    <loc>http://localhost:1313/en/contact/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/categories/</loc>

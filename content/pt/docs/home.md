@@ -2,7 +2,7 @@
 title: "Início"
 layout: "redirect"
 redirect: "/pt/"
-aliases: ["/pt/home/"]
+url: "/pt/home/"
 weight: 1
 draft: false
 ---

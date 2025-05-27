@@ -5,11 +5,12 @@ theme = "hugo-book"
 
 ignoreLogs = ['warning-goldmark-raw-html']
 
-
-
 defaultContentLanguageInSubdir = true
 BookSection = 'docs'
 publishDir = "docs"
+
+[permalinks]
+  docs = "/:slug/"
 
 [caches]
   [caches.images]
