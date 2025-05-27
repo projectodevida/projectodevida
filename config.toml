@@ -3,6 +3,10 @@ languageCode = "en-us"
 title = "Projecto de Vida"
 theme = "hugo-book"
 
+ignoreLogs = ['warning-goldmark-raw-html']
+
+
+
 defaultContentLanguageInSubdir = true
 BookSection = 'docs'
 publishDir = "docs"
@@ -15,46 +19,74 @@ publishDir = "docs"
   customCSS = ["css/custom.scss"]
   favicon = "favicon.ico"
 
-[menu]
-  [[menu.main]]
+[languages.en.menu]
+  [[languages.en.menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = "/en/"
     weight = 1
 
-[[menu.main]]
-  identifier = "indice"
-  name = "Índice"
-  url = "/pt/docs/indice/"
-  weight = 1
-
-  [[menu.main]]
+  [[languages.en.menu.main]]
     identifier = "blog"
     name = "Blog"
-    url = "/blog/"
+    url = "/en/blog/"
     weight = 2
 
-[[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  url = "/projects/"
-  weight = 3
-  children = [
-    {name = "Publications", url = "/projects/publications/"},
-    {name = "Events", url = "/projects/events/"}
-  ]
+  [[languages.en.menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/en/projects/"
+    weight = 3
+    children = [
+      {name = "Publications", url = "/en/projects/publications/"},
+      {name = "Events", url = "/en/projects/events/"}
+    ]
 
-  [[menu.main]]
+  [[languages.en.menu.main]]
     name = "Resources"
-    url = "/resources/"
+    url = "/en/resources/"
     weight = 4
 
-  [[menu.main]]
+  [[languages.en.menu.main]]
     identifier = "contact"
     name = "Contact"
-    url = "/contact/"
+    url = "/en/contact/"
     weight = 5
-    
+
+
+[languages.pt.menu]
+  [[languages.pt.menu.main]]
+    identifier = "home"
+    name = "Início"
+    url = "/pt/"
+    weight = 1
+
+  [[languages.pt.menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/pt/blog/"
+    weight = 2
+
+  [[languages.pt.menu.main]]
+    identifier = "projects"
+    name = "Projetos"
+    url = "/pt/projects/"
+    weight = 3
+    children = [
+      {name = "Publicações", url = "/pt/projects/publications/"},
+      {name = "Eventos", url = "/pt/projects/events/"}
+    ]
+
+  [[languages.pt.menu.main]]
+    name = "Recursos"
+    url = "/pt/resources/"
+    weight = 4
+
+  [[languages.pt.menu.main]]
+    identifier = "contact"
+    name = "Contato"
+    url = "/pt/contact/"
+    weight = 5
     
     
 defaultContentLanguage = 'en'
@@ -90,3 +122,5 @@ defaultContentLanguageInSubdir = true
     [languages.pt.taxonomies]
       category = "categorias"
       tag = "tags"
+
+
