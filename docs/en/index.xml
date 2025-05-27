@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projecto de Vida</title>
-    <link>https://projectodevida.org/en/</link>
+    <link>http://localhost:1313/en/</link>
     <description>Recent content on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://projectodevida.org/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Index</title>
-      <link>https://projectodevida.org/en/home/</link>
+      <link>http://localhost:1313/en/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/en/home/</guid>
+      <guid>http://localhost:1313/en/home/</guid>
       <description>&lt;p&gt;1&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>https://projectodevida.org/en/posts/</link>
+      <link>http://localhost:1313/en/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/en/posts/</guid>
+      <guid>http://localhost:1313/en/posts/</guid>
       <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;&#xA;  Welcome to the Blog&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-the-blog&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resources</title>
-      <link>https://projectodevida.org/resources/</link>
+      <link>http://localhost:1313/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/resources/</guid>
+      <guid>http://localhost:1313/resources/</guid>
       <description>&lt;h1 id=&#34;welcome-to-resources&#34;&gt;&#xA;  Welcome to Resources&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-resources&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the resources section.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://projectodevida.org/en/contact/</link>
+      <link>http://localhost:1313/en/contact/</link>
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/en/contact/</guid>
+      <guid>http://localhost:1313/en/contact/</guid>
       <description>&lt;h1 id=&#34;my-contact&#34;&gt;&#xA;  My Contact&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-contact&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Email phone number and stuff.&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://projectodevida.org/en/posts/firstpost/</link>
+      <link>http://localhost:1313/en/posts/firstpost/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/en/posts/firstpost/</guid>
+      <guid>http://localhost:1313/en/posts/firstpost/</guid>
       <description>&lt;p&gt;This is the first post of &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Second Post</title>
-      <link>https://projectodevida.org/en/posts/secondpost/</link>
+      <link>http://localhost:1313/en/posts/secondpost/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/en/posts/secondpost/</guid>
+      <guid>http://localhost:1313/en/posts/secondpost/</guid>
       <description>&lt;p&gt;This is the second post of &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>— Events</title>
-      <link>https://projectodevida.org/projects/events/</link>
+      <link>http://localhost:1313/projects/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/projects/events/</guid>
-      <description>&lt;h1 id=&#34;events&#34;&gt;&#xA;  Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h3 id=&#34;cosmos-event--31102024&#34;&gt;&#xA;  Cosmos Event | 31/10/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cosmos-event--31102024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://projectodevida.org/images/Cosmos.jpeg&#34; alt=&#34;Cosmos Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lisa-event--18092024&#34;&gt;&#xA;  Lisa Event | 18/09/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lisa-event--18092024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://projectodevida.org/images/Lisa.jpeg&#34; alt=&#34;Lisa Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;more-events&#34;&gt;&#xA;  More Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/projects/events/</guid>
+      <description>&lt;h1 id=&#34;events&#34;&gt;&#xA;  Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h3 id=&#34;cosmos-event--31102024&#34;&gt;&#xA;  Cosmos Event | 31/10/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cosmos-event--31102024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Cosmos.jpeg&#34; alt=&#34;Cosmos Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lisa-event--18092024&#34;&gt;&#xA;  Lisa Event | 18/09/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lisa-event--18092024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Lisa.jpeg&#34; alt=&#34;Lisa Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;more-events&#34;&gt;&#xA;  More Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>— Publications</title>
-      <link>https://projectodevida.org/projects/publications/</link>
+      <link>http://localhost:1313/projects/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/projects/publications/</guid>
+      <guid>http://localhost:1313/projects/publications/</guid>
       <description>&lt;h1 id=&#34;publications&#34;&gt;&#xA;  Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-publications&#34;&gt;&#xA;  More Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
     </item>
   </channel>
