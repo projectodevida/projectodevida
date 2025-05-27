@@ -59,7 +59,7 @@ publishDir = "docs"
   [[languages.pt.menu.main]]
     identifier = "home"
     name = "Início"
-    url = "/pt/home/"
+    url = "/pt/"
     weight = 1
 
   [[languages.pt.menu.main]]
