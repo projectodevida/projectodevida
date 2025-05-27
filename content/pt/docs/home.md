@@ -1,7 +1,7 @@
 ---
 title: "Início"
 layout: "redirect"
-redirect: "https://projectodevida.org/pt/"
+redirect: "/pt/"
 url: "/pt/home/"
 weight: 1
 draft: false
