@@ -8,6 +8,16 @@ draft: false
 
 This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you'd like to connect!
 
+### Cosmos Event | 31/10/2024
+![Cosmos Poster](/images/Cosmos.jpeg)
+
+---
+
+### Lisa Event | 18/09/2024
+![Lisa Poster](/images/Lisa.jpeg)
+
+---
+
 ## More Events
 
 The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.
