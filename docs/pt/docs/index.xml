@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docs on Projecto de Vida</title>
-    <link>https://projectodevida.org/pt/docs/</link>
+    <link>http://localhost:1313/pt/docs/</link>
     <description>Recent content in Docs on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>pt-PT</language>
-    <atom:link href="https://projectodevida.org/pt/docs/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/pt/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Início</title>
-      <link>https://projectodevida.org/pt/home/</link>
+      <link>http://localhost:1313/pt/home/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/pt/home/</guid>
+      <guid>http://localhost:1313/pt/home/</guid>
       <description>&lt;p&gt;1&lt;/p&gt;</description>
     </item>
     <item>
       <title>Blog</title>
-      <link>https://projectodevida.org/pt/posts/</link>
+      <link>http://localhost:1313/pt/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/pt/posts/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;&#xA;  Welcome to the Blog&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-the-blog&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pt/posts/</guid>
+      <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;Welcome to the Blog&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Recursos</title>
-      <link>https://projectodevida.org/pt/recursos/</link>
+      <link>http://localhost:1313/pt/recursos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/pt/recursos/</guid>
-      <description>&lt;h1 id=&#34;recursos&#34;&gt;&#xA;  Recursos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#recursos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Esta é a página dos recursos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;artigos&#34;&gt;&#xA;  Artigos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#artigos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Artigo 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#&#34;&gt;Artigo 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/pt/recursos/</guid>
+      <description>&lt;h1 id=&#34;recursos&#34;&gt;Recursos&lt;/h1&gt;&#xA;&lt;p&gt;Esta é a página dos recursos.&lt;/p&gt;&#xA;&lt;h2 id=&#34;artigos&#34;&gt;Artigos&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34;&gt;Artigo 1&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;&#34;&gt;Artigo 2&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Contacto</title>
-      <link>https://projectodevida.org/pt/contacto/</link>
+      <link>http://localhost:1313/pt/contacto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/pt/contacto/</guid>
-      <description>&lt;h1 id=&#34;entre-em-contacto&#34;&gt;&#xA;  Entre em Contacto&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#entre-em-contacto&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Se tiver dúvidas, sugestões ou quiser conversar, entre em contacto comigo!&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:seuemail@example.com&#34;&gt;email@example.com&lt;/a&gt;&lt;br&gt;&#xA;Redes Sociais: &lt;a href=&#34;#&#34;&gt;Instagram&lt;/a&gt; | &lt;a href=&#34;#&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;#&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pt/contacto/</guid>
+      <description>&lt;h1 id=&#34;entre-em-contacto&#34;&gt;Entre em Contacto&lt;/h1&gt;&#xA;&lt;p&gt;Se tiver dúvidas, sugestões ou quiser conversar, entre em contacto comigo!&lt;/p&gt;&#xA;&lt;p&gt;Email: &lt;a href=&#34;mailto:seuemail@example.com&#34;&gt;email@example.com&lt;/a&gt;&lt;br&gt;&#xA;Redes Sociais: &lt;a href=&#34;&#34;&gt;Instagram&lt;/a&gt; | &lt;a href=&#34;&#34;&gt;Twitter&lt;/a&gt; | &lt;a href=&#34;&#34;&gt;LinkedIn&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

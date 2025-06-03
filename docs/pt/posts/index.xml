@@ -2,25 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Projecto de Vida</title>
-    <link>https://projectodevida.org/pt/posts/</link>
+    <link>http://localhost:1313/pt/posts/</link>
     <description>Recent content in Posts on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>pt-PT</language>
     <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://projectodevida.org/pt/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Primeiro Post</title>
-      <link>https://projectodevida.org/pt/posts/post1/</link>
-      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/pt/posts/post1/</guid>
-      <description>&lt;p&gt;Este é o primeiro post do &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
-    </item>
+    <atom:link href="http://localhost:1313/pt/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Segundo Post</title>
-      <link>https://projectodevida.org/pt/posts/post2/</link>
+      <link>http://localhost:1313/pt/posts/post2/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://projectodevida.org/pt/posts/post2/</guid>
-      <description>&lt;h2 id=&#34;este-é-um-subtítulo&#34;&gt;&#xA;  Este é um subtítulo&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#este-%c3%a9-um-subt%c3%adtulo&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Este é o meu segundo post no blog do Projecto de Vida! Mais atualizações em breve.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/pt/posts/post2/</guid>
+      <description>&lt;h2 id=&#34;este-é-um-subtítulo&#34;&gt;Este é um subtítulo&lt;/h2&gt;&#xA;&lt;p&gt;Este é o meu segundo post no blog do Projecto de Vida! Mais atualizações em breve.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
