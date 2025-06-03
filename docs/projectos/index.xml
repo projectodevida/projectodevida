@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projectos on Projecto de Vida</title>
-    <link>http://localhost:1313/projectos/</link>
+    <link>https://projectodevida.org/projectos/</link>
     <description>Recent content in Projectos on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>pt-PT</language>
-    <atom:link href="http://localhost:1313/projectos/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://projectodevida.org/projectos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>— Eventos</title>
-      <link>http://localhost:1313/projectos/eventos/</link>
+      <link>https://projectodevida.org/projectos/eventos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projectos/eventos/</guid>
-      <description>&lt;h1 id=&#34;eventos&#34;&gt;Eventos&lt;/h1&gt;&#xA;&lt;p&gt;Este é o meu projeto pessoal onde documenta e explora a minha vida, objetivos e experiências. Sinta-se à vontade para ler os meus artigos e entre em contacto se quiser conectar!&lt;/p&gt;&#xA;&lt;h3 id=&#34;cosmos-event--31102024&#34;&gt;Cosmos Event | 31/10/2024&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Cosmos.jpeg&#34; alt=&#34;Cosmos Poster&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lisa-event--18092024&#34;&gt;Lisa Event | 18/09/2024&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Lisa.jpeg&#34; alt=&#34;Lisa Poster&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mais-eventos&#34;&gt;Mais Eventos&lt;/h2&gt;&#xA;&lt;p&gt;O propósito deste projeto é criar um espaço para refletir sobre as minhas experiências, partilhar o que aprendo e planejar o futuro. Vai encontrar artigos sobre uma variedade de tópicos, incluindo desenvolvimento pessoal, carreira e muito mais.&lt;/p&gt;</description>
+      <guid>https://projectodevida.org/projectos/eventos/</guid>
+      <description>&lt;h1 id=&#34;eventos&#34;&gt;&#xA;  Eventos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#eventos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Este é o meu projeto pessoal onde documenta e explora a minha vida, objetivos e experiências. Sinta-se à vontade para ler os meus artigos e entre em contacto se quiser conectar!&lt;/p&gt;&#xA;&lt;h3 id=&#34;cosmos-event--31102024&#34;&gt;&#xA;  Cosmos Event | 31/10/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cosmos-event--31102024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://projectodevida.org/images/Cosmos.jpeg&#34; alt=&#34;Cosmos Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lisa-event--18092024&#34;&gt;&#xA;  Lisa Event | 18/09/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lisa-event--18092024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://projectodevida.org/images/Lisa.jpeg&#34; alt=&#34;Lisa Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;mais-eventos&#34;&gt;&#xA;  Mais Eventos&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mais-eventos&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O propósito deste projeto é criar um espaço para refletir sobre as minhas experiências, partilhar o que aprendo e planejar o futuro. Vai encontrar artigos sobre uma variedade de tópicos, incluindo desenvolvimento pessoal, carreira e muito mais.&lt;/p&gt;</description>
     </item>
     <item>
       <title>— Publicações</title>
-      <link>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</link>
+      <link>https://projectodevida.org/projectos/publica%C3%A7%C3%B5es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projectos/publica%C3%A7%C3%B5es/</guid>
-      <description>&lt;h1 id=&#34;publicações&#34;&gt;Publicações&lt;/h1&gt;&#xA;&lt;p&gt;Este é o meu projeto pessoal onde documentei e exploro a minha vida, metas e experiências. Fique à vontade para ler os meus posts e entre em contato caso queira conectar!&lt;/p&gt;&#xA;&lt;h2 id=&#34;mais-publicações&#34;&gt;Mais Publicações&lt;/h2&gt;&#xA;&lt;p&gt;O objetivo deste projeto é criar um espaço para refletir sobre as minhas experiências, compartilhar o que aprendo e planejar o futuro. Encontrará artigos sobre uma variedade de tópicos, incluindo desenvolvimento pessoal, carreira e mais.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mais-informações-sobre-publicações&#34;&gt;Mais Informações sobre Publicações&lt;/h3&gt;&#xA;&lt;p&gt;Mais informações que considero interessantes.&lt;/p&gt;</description>
+      <guid>https://projectodevida.org/projectos/publica%C3%A7%C3%B5es/</guid>
+      <description>&lt;h1 id=&#34;publicações&#34;&gt;&#xA;  Publicações&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#publica%c3%a7%c3%b5es&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Este é o meu projeto pessoal onde documentei e exploro a minha vida, metas e experiências. Fique à vontade para ler os meus posts e entre em contato caso queira conectar!&lt;/p&gt;&#xA;&lt;h2 id=&#34;mais-publicações&#34;&gt;&#xA;  Mais Publicações&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#mais-publica%c3%a7%c3%b5es&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O objetivo deste projeto é criar um espaço para refletir sobre as minhas experiências, compartilhar o que aprendo e planejar o futuro. Encontrará artigos sobre uma variedade de tópicos, incluindo desenvolvimento pessoal, carreira e mais.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
