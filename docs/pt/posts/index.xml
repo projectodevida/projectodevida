@@ -8,12 +8,26 @@
     <language>pt-PT</language>
     <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/pt/posts/index.xml" rel="self" type="application/rss+xml" />
+<<<<<<< HEAD
+=======
+    <item>
+      <title>Primeiro Post</title>
+      <link>http://localhost:1313/pt/posts/post1/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/pt/posts/post1/</guid>
+      <description>&lt;p&gt;Este é o primeiro post do &lt;strong&gt;Projecto de Vida&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+>>>>>>> changes
     <item>
       <title>Segundo Post</title>
       <link>http://localhost:1313/pt/posts/post2/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/pt/posts/post2/</guid>
+<<<<<<< HEAD
       <description>&lt;h2 id=&#34;este-é-um-subtítulo&#34;&gt;Este é um subtítulo&lt;/h2&gt;&#xA;&lt;p&gt;Este é o meu segundo post no blog do Projecto de Vida! Mais atualizações em breve.&lt;/p&gt;</description>
+=======
+      <description>&lt;h2 id=&#34;este-é-um-subtítulo&#34;&gt;&#xA;  Este é um subtítulo&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#este-%c3%a9-um-subt%c3%adtulo&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Este é o meu segundo post no blog do Projecto de Vida! Mais atualizações em breve.&lt;/p&gt;</description>
+>>>>>>> changes
     </item>
   </channel>
 </rss>
