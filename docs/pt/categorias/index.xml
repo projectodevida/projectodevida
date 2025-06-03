@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categorias on Projecto de Vida</title>
-    <link>http://localhost:1313/pt/categorias/</link>
+    <link>https://projectodevida.org/pt/categorias/</link>
     <description>Recent content in Categorias on Projecto de Vida</description>
     <generator>Hugo</generator>
     <language>pt-PT</language>
     <lastBuildDate>Fri, 21 Feb 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/pt/categorias/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://projectodevida.org/pt/categorias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Category 1</title>
+      <link>https://projectodevida.org/pt/categorias/category-1/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://projectodevida.org/pt/categorias/category-1/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Category 2</title>
+      <link>https://projectodevida.org/pt/categorias/category-2/</link>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://projectodevida.org/pt/categorias/category-2/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Category 3</title>
-      <link>http://localhost:1313/pt/categorias/category-3/</link>
+      <link>https://projectodevida.org/pt/categorias/category-3/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/categorias/category-3/</guid>
+      <guid>https://projectodevida.org/pt/categorias/category-3/</guid>
       <description></description>
     </item>
     <item>
       <title>Category 4</title>
-      <link>http://localhost:1313/pt/categorias/category-4/</link>
+      <link>https://projectodevida.org/pt/categorias/category-4/</link>
       <pubDate>Fri, 21 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/pt/categorias/category-4/</guid>
+      <guid>https://projectodevida.org/pt/categorias/category-4/</guid>
       <description></description>
     </item>
   </channel>

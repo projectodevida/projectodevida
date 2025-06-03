@@ -2,147 +2,177 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/en/home/</loc>
+    <loc>https://projectodevida.org/en/home/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/home/"
+                href="https://projectodevida.org/pt/home/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/home/"
+                href="https://projectodevida.org/en/home/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
+    <loc>https://projectodevida.org/en/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/posts/"
+                href="https://projectodevida.org/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
+                href="https://projectodevida.org/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>https://projectodevida.org/projects/</loc>
   </url><url>
-    <loc>http://localhost:1313/resources/</loc>
+    <loc>https://projectodevida.org/resources/</loc>
   </url><url>
-    <loc>http://localhost:1313/en/contact/</loc>
+    <loc>https://projectodevida.org/en/contact/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/</loc>
+    <loc>https://projectodevida.org/en/categories/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/category-1/</loc>
+    <loc>https://projectodevida.org/en/categories/category-1/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/category-2/</loc>
+    <loc>https://projectodevida.org/en/categories/category-2/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/category-3/</loc>
+    <loc>https://projectodevida.org/en/categories/category-3/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/categories/category-4/</loc>
+    <loc>https://projectodevida.org/en/categories/category-4/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/firstpost/</loc>
+    <loc>https://projectodevida.org/en/posts/firstpost/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-PT"
-                href="http://localhost:1313/pt/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:1313/en/posts/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/posts/secondpost/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-1/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-2/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/tag-3/</loc>
+    <loc>https://projectodevida.org/en/posts/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/tag-3/"
+                href="https://projectodevida.org/pt/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/tag-3/"
+                href="https://projectodevida.org/en/posts/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/tag-4/</loc>
+    <loc>https://projectodevida.org/en/posts/secondpost/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://projectodevida.org/en/tags/tag-1/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/tag-4/"
+                href="https://projectodevida.org/pt/tags/tag-1/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/tag-4/"
+                href="https://projectodevida.org/en/tags/tag-1/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/tag-vida/</loc>
-    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/</loc>
+    <loc>https://projectodevida.org/en/tags/tag-2/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/tags/"
+                href="https://projectodevida.org/pt/tags/tag-2/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/tags/"
+                href="https://projectodevida.org/en/tags/tag-2/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/docs/</loc>
+    <loc>https://projectodevida.org/en/tags/tag-3/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://projectodevida.org/pt/tags/tag-3/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://projectodevida.org/en/tags/tag-3/"
+                />
+  </url><url>
+    <loc>https://projectodevida.org/en/tags/tag-4/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://projectodevida.org/pt/tags/tag-4/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://projectodevida.org/en/tags/tag-4/"
+                />
+  </url><url>
+    <loc>https://projectodevida.org/en/tags/tag-vida/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://projectodevida.org/pt/tags/tag-vida/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://projectodevida.org/en/tags/tag-vida/"
+                />
+  </url><url>
+    <loc>https://projectodevida.org/en/tags/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="https://projectodevida.org/pt/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="https://projectodevida.org/en/tags/"
+                />
+  </url><url>
+    <loc>https://projectodevida.org/en/docs/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/docs/"
+                href="https://projectodevida.org/pt/docs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/docs/"
+                href="https://projectodevida.org/en/docs/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/</loc>
+    <loc>https://projectodevida.org/en/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
-                href="http://localhost:1313/pt/"
+                href="https://projectodevida.org/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/en/"
+                href="https://projectodevida.org/en/"
                 />
   </url><url>
-    <loc>http://localhost:1313/projects/events/</loc>
+    <loc>https://projectodevida.org/projects/events/</loc>
   </url><url>
-    <loc>http://localhost:1313/projects/publications/</loc>
+    <loc>https://projectodevida.org/projects/publications/</loc>
   </url>
 </urlset>
