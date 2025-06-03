@@ -6,7 +6,7 @@ draft: false
 
 # Publications
 
-This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you'd like to connect!
+————
 
 ## More Publications
 
