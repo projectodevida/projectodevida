@@ -6,7 +6,7 @@ draft: false
 
 # Projecto de Vida
 
-.......
+.......OKAY
 
 ## About
 

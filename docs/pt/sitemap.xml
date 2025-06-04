@@ -36,6 +36,7 @@
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <loc>http://localhost:1313/pt/categorias/category-3/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,6 +45,8 @@
   </url><url>
     <loc>http://localhost:1313/pt/posts/</loc>
 =======
+=======
+>>>>>>> origin/main
     <loc>http://localhost:1313/pt/categorias/category-1/</loc>
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -76,20 +79,28 @@
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pt/tags/tag-1/</loc>
+<<<<<<< HEAD
 >>>>>>> changes
+=======
+>>>>>>> origin/main
     <lastmod>2025-02-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
 <<<<<<< HEAD
+<<<<<<< HEAD
                 href="http://localhost:1313/en/posts/"
 =======
                 href="http://localhost:1313/en/tags/tag-1/"
 >>>>>>> changes
+=======
+                href="http://localhost:1313/en/tags/tag-1/"
+>>>>>>> origin/main
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-PT"
+<<<<<<< HEAD
 <<<<<<< HEAD
                 href="http://localhost:1313/pt/posts/"
                 />
@@ -99,6 +110,8 @@
   </url><url>
     <loc>http://localhost:1313/pt/tags/tag-3/</loc>
 =======
+=======
+>>>>>>> origin/main
                 href="http://localhost:1313/pt/tags/tag-1/"
                 />
   </url><url>
@@ -172,6 +185,19 @@
 =======
                 href="http://localhost:1313/pt/tags/tag-vida/"
 >>>>>>> changes
+                />
+  </url><url>
+    <loc>http://localhost:1313/pt/tags/tag-vida/</loc>
+    <lastmod>2025-02-21T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/tag-vida/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-PT"
+                href="http://localhost:1313/pt/tags/tag-vida/"
                 />
   </url><url>
     <loc>http://localhost:1313/pt/tags/</loc>

@@ -21,10 +21,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/posts/</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;Welcome to the Blog&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
 =======
       <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;&#xA;  Welcome to the Blog&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-the-blog&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
 >>>>>>> changes
+=======
+      <description>&lt;h1 id=&#34;welcome-to-the-blog&#34;&gt;&#xA;  Welcome to the Blog&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-the-blog&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Here is where we will share our posts.&lt;/p&gt;</description>
+>>>>>>> origin/main
     </item>
     <item>
       <title>Resources</title>
@@ -32,10 +36,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/resources/</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <description>&lt;h1 id=&#34;welcome-to-resources&#34;&gt;Welcome to Resources&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the resources section.&lt;/p&gt;</description>
 =======
       <description>&lt;h1 id=&#34;welcome-to-resources&#34;&gt;&#xA;  Welcome to Resources&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-resources&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the resources section.&lt;/p&gt;</description>
 >>>>>>> changes
+=======
+      <description>&lt;h1 id=&#34;welcome-to-resources&#34;&gt;&#xA;  Welcome to Resources&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-resources&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the resources section.&lt;/p&gt;</description>
+>>>>>>> origin/main
     </item>
     <item>
       <title>Contact</title>
@@ -43,10 +51,14 @@
       <pubDate>Wed, 12 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/contact/</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <description>&lt;h1 id=&#34;my-contact&#34;&gt;My Contact&lt;/h1&gt;&#xA;&lt;p&gt;Email phone number and stuff.&lt;/p&gt;</description>
 =======
       <description>&lt;h1 id=&#34;my-contact&#34;&gt;&#xA;  My Contact&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-contact&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Email phone number and stuff.&lt;/p&gt;</description>
 >>>>>>> changes
+=======
+      <description>&lt;h1 id=&#34;my-contact&#34;&gt;&#xA;  My Contact&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#my-contact&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Email phone number and stuff.&lt;/p&gt;</description>
+>>>>>>> origin/main
     </item>
     <item>
       <title>First Post</title>
@@ -68,10 +80,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/events/</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <description>&lt;h1 id=&#34;events&#34;&gt;Events&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h3 id=&#34;cosmos-event--31102024&#34;&gt;Cosmos Event | 31/10/2024&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Cosmos.jpeg&#34; alt=&#34;Cosmos Poster&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lisa-event--18092024&#34;&gt;Lisa Event | 18/09/2024&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Lisa.jpeg&#34; alt=&#34;Lisa Poster&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;more-events&#34;&gt;More Events&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
 =======
       <description>&lt;h1 id=&#34;events&#34;&gt;&#xA;  Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h3 id=&#34;cosmos-event--31102024&#34;&gt;&#xA;  Cosmos Event | 31/10/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cosmos-event--31102024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Cosmos.jpeg&#34; alt=&#34;Cosmos Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lisa-event--18092024&#34;&gt;&#xA;  Lisa Event | 18/09/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lisa-event--18092024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Lisa.jpeg&#34; alt=&#34;Lisa Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;more-events&#34;&gt;&#xA;  More Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
 >>>>>>> changes
+=======
+      <description>&lt;h1 id=&#34;events&#34;&gt;&#xA;  Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h3 id=&#34;cosmos-event--31102024&#34;&gt;&#xA;  Cosmos Event | 31/10/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cosmos-event--31102024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Cosmos.jpeg&#34; alt=&#34;Cosmos Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;lisa-event--18092024&#34;&gt;&#xA;  Lisa Event | 18/09/2024&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#lisa-event--18092024&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Lisa.jpeg&#34; alt=&#34;Lisa Poster&#34; /&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;more-events&#34;&gt;&#xA;  More Events&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-events&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
+>>>>>>> origin/main
     </item>
     <item>
       <title>— Publications</title>
@@ -79,10 +95,14 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/publications/</guid>
 <<<<<<< HEAD
+<<<<<<< HEAD
       <description>&lt;h1 id=&#34;publications&#34;&gt;Publications&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-publications&#34;&gt;More Publications&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
 =======
       <description>&lt;h1 id=&#34;publications&#34;&gt;&#xA;  Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;This is my personal project where I document and explore my life, goals, and experiences. Feel free to read through my posts, and get in touch if you&amp;rsquo;d like to connect!&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-publications&#34;&gt;&#xA;  More Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;</description>
 >>>>>>> changes
+=======
+      <description>&lt;h1 id=&#34;publications&#34;&gt;&#xA;  Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;————&lt;/p&gt;&#xA;&lt;h2 id=&#34;more-publications&#34;&gt;&#xA;  More Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;The purpose of this project is to create a space to reflect on my experiences, share what I learn, and plan for the future. You’ll find articles on a variety of topics, including personal development, career, and more.&lt;/p&gt;&#xA;&lt;h3 id=&#34;more-info-about-publications&#34;&gt;&#xA;  More Info About Publications&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#more-info-about-publications&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;This is more info I find interesting.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Thanks for visiting! Stay tuned for more updates.&lt;/p&gt;</description>
+>>>>>>> origin/main
     </item>
   </channel>
 </rss>
