@@ -1,0 +1,21 @@
+{{ define "main" }}
+<article>
+  <h1 class="page-title">{{ .Title }}</h1>
+
+  {{ $hasMeta := or .Params.catalogue .Params.format .Params.year .Params.duration .Params.price }}
+  {{ if $hasMeta }}
+  <div class="project-sidebar">
+    <dl>
+      {{ with .Params.format }}<dt>format</dt><dd>{{ . }}</dd>{{ end }}
+      {{ with .Params.year }}<dt>year</dt><dd>{{ . }}</dd>{{ end }}
+      {{ with .Params.duration }}<dt>duration</dt><dd>{{ . }}</dd>{{ end }}
+      {{ with .Params.price }}<dt>price</dt><dd>{{ . }}</dd>{{ end }}
+    </dl>
+  </div>
+  {{ end }}
+
+  <div class="post-body">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

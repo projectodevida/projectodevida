@@ -1,0 +1,17 @@
+<header>
+  <div class="site-title">
+    <a href="{{ .Site.Home.RelPermalink }}">
+      {{ $logo := resources.Get "img/logo.svg" }}
+      {{ if $logo }}
+        <img src="{{ $logo.RelPermalink }}" alt="{{ .Site.Title }}" class="site-logo">
+      {{ else }}
+        {{ .Site.Title }}
+      {{ end }}
+    </a>
+  </div>
+  <nav>
+    {{ range .Site.Menus.main -}}
+    <a href="{{ .URL }}"{{ if $.IsMenuCurrent "main" . }} class="active"{{ end }}>{{ .Name }}</a>
+    {{- end }}
+  </nav>
+</header>

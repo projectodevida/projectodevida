@@ -1,0 +1,37 @@
+{{ define "main" }}
+
+<div class="home-section">
+  <div class="section-head">recently added</div>
+  <ul class="log-list">
+    {{ $recent := where .Site.RegularPages "Section" "ne" "" | first 5 }}
+    {{ range $recent }}
+    <li>
+      <span class="log-date">{{ .Date.Format "2006-01-02" }}</span>
+      <span class="log-title">
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        <span class="log-tag"> [{{ .Section }}{{ with .Params.language }} · {{ . }}{{ end }}]</span>
+      </span>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+
+<div class="home-section">
+  <div class="section-head">changelog</div>
+  <ul class="log-list">
+    {{ range first 5 .Site.Data.changelog }}
+    <li>
+      <span class="log-date">{{ .date }}</span>
+      <span class="log-title">{{ .note }}</span>
+    </li>
+    {{ end }}
+  </ul>
+</div>
+
+<hr>
+
+{{ if .Content }}
+<div class="body-text">{{ .Content }}</div>
+{{ end }}
+
+{{ end }}

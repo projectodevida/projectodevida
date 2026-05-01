@@ -1,0 +1,6 @@
+public/
+docs/
+resources/_gen/
+.hugo_build.lock
+.DS_Store
+.claude/

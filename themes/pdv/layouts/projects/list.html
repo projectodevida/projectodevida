@@ -1,0 +1,16 @@
+{{ define "main" }}
+<div class="list-head">{{ .Title }}</div>
+<ul class="post-list">
+  {{ range .Pages.ByDate.Reverse }}
+  <li>
+    <span class="date">{{ with .Params.catalogue }}{{ . }}{{ else }}{{ .Date.Format "2006" }}{{ end }}</span>
+    <span class="title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+      {{ with .Params.format }}<span class="log-tag"> [{{ . }}]</span>{{ end }}
+      {{ with .Params.language }}<span class="log-tag"> [{{ . }}]</span>{{ end }}
+      <span class="log-tag">{{ .Date.Format "[2006]" }}</span>
+    </span>
+  </li>
+  {{ end }}
+</ul>
+{{ end }}

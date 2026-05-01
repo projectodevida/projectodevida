@@ -1,0 +1,7 @@
+name        = "pdv"
+license     = "MIT"
+description = "Projecto de Vida theme."
+min_version = "0.110.0"
+
+[author]
+  name = "Projecto de Vida"
