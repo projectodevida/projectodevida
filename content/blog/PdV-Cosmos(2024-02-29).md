@@ -1,8 +1,6 @@
 ---
-title: "Rosso Polare (live), Giada Pignotti (live), Miguel Limão (dj set) @ Cosmos, 2025-07-24"
-date: 2025-07-24
-catalogue: "event"
+title: "Callahan & Witscher (live), Riva Mut (dj) @ Cosmos"
+date: 2024-02-29
 format: "event"
-year: 2025-07-24
 ---
-![PdV-Cosmos(2025-07-24)](/img/events/PdV-Cosmos(2025-07-24).jpeg)
+![PdV-Cosmos(2024-02-29)](/img/events/PdV-Cosmos(2024-02-29).jpeg)

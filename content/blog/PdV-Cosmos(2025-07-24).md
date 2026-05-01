@@ -1,5 +1,5 @@
 ---
-title: "Rosso Polare (live), Giada Pignotti (live), Miguel Limão (dj set) @ Cosmos, 2025-07-24"
+title: "Rosso Polare (live), Giada Pignotti (live), Miguel Limão (dj) @ Cosmos"
 date: 2025-07-24
 format: "event"
 ---

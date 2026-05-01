@@ -1,5 +1,5 @@
 ---
-title: "Adriana João x Polido x Seán Being (live), John T. Gast (dj set) @ Cosmos, 2023-02-23"
+title: "Adriana João x Polido x Seán Being (live), John T. Gast (dj) @ Cosmos"
 date: 2023-02-23
 format: "event"
 year: 2023-02-23

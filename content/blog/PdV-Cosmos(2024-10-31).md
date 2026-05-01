@@ -1,5 +1,5 @@
 ---
-title: "Sholto Dobie (live), Vasco Alves (dj set) @ Cosmos"
+title: "Sholto Dobie (live), Vasco Alves (dj) @ Cosmos"
 date: 2024-10-31
 format: "event"
 ---
