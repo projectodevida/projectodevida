@@ -1,6 +1,6 @@
 ---
 title: "Música Livre 2ª ed."
-date: 2025-02-18
+date: 2025-08-20
 catalogue: "merch"
 format: "T-shirt"
 year: 2025

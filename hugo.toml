@@ -13,8 +13,8 @@ buildFuture = true
   url    = "/"
   weight = 1
 [[menus.main]]
-  name   = "projects"
-  url    = "/projects/"
+  name   = "editions"
+  url    = "/editions/"
   weight = 2
 [[menus.main]]
   name   = "blog"

@@ -14,7 +14,7 @@ your-project/
 │   ├── blog/
 │   │   ├── _index.md
 │   │   └── notes-on-improvisation.md
-│   ├── projects/
+│   ├── editions/
 │   │   ├── _index.md
 │   │   └── pdv004.md
 │   ├── resources/
@@ -34,7 +34,7 @@ your-project/
             │   ├── head.html
             │   ├── header.html
             │   └── footer.html
-            ├── projects/
+            ├── editions/
             │   ├── single.html
             │   └── list.html
             └── resources/
@@ -67,7 +67,7 @@ it is purely a label.
 ---
 title: "Notes on free improvisation"
 date: 2025-01-18
-lang: "en"
+language: "en"
 ---
 Text here.
 
@@ -76,7 +76,7 @@ Text here.
 ---
 title: "PDV003 — liner notes"
 date: 2024-11-20
-lang: "pt/en"
+language: "pt/en"
 ---
 Texto em português aqui.
 
@@ -91,7 +91,7 @@ English text here.
 ---
 title: "Polido — Free Music II"
 date: 2025-02-18
-lang: "pt/en"
+language: "pt/en"
 catalogue: "PDV004"
 format: "CD-r"
 year: 2025
